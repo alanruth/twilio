@@ -14,7 +14,7 @@ class SmsController < ApplicationController
 		  #end
 		  #twiml.text
 
-		  message = '<Response><Sms>Thank you for contacting Sparktext. Please respond with your name.'+session[:sms_state]+'</Sms></Response>'
+		  message = '<Response><Sms>Thank you for contacting Sparktext. Please respond with your name.'+session[:state]+'</Sms></Response>'
 		  render :text => message, :content_type => 'text/xml'
 
 	  elsif @sms_state == 'step_1'
