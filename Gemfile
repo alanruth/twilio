@@ -4,7 +4,7 @@ ruby '2.0.0'
 gem 'rails', '4.0.0'
 gem 'thin'
 gem 'rails_12factor'
-gem 'twilio-ruby'
+#gem 'twilio-ruby'
 
 # Use postgresql as the database for Active Record
 gem 'pg'

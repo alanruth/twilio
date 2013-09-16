@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="941915ca-1bbd-4f74-ba5f-6f4f8ea9f444" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/sms_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/sms_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
     </list>
     <ignored path="twilio.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Gemfile" changelist="941915ca-1bbd-4f74-ba5f-6f4f8ea9f444" time="1379304827789" ignored="false" />
+    <file path="/Gemfile" changelist="941915ca-1bbd-4f74-ba5f-6f4f8ea9f444" time="1379305433091" ignored="false" />
     <file path="/database.yml" changelist="941915ca-1bbd-4f74-ba5f-6f4f8ea9f444" time="1379302918954" ignored="false" />
     <file path="/routes.rb" changelist="941915ca-1bbd-4f74-ba5f-6f4f8ea9f444" time="1379303028852" ignored="false" />
     <file path="/Dummy.txt" changelist="941915ca-1bbd-4f74-ba5f-6f4f8ea9f444" time="1379303435462" ignored="false" />
@@ -30,19 +30,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="16" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
+            <state line="6" column="1" selection-start="161" selection-end="161" vertical-scroll-proportion="0.20547946">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sms_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="sms_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/sms_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="0" selection-start="1251" selection-end="1251" vertical-scroll-proportion="0.92941177">
+            <state line="41" column="0" selection-start="1251" selection-end="1251" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -81,8 +81,8 @@
       <list>
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/controllers/sms_controller.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -489,16 +489,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/app/controllers/sms_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="16" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
+        <state line="41" column="0" selection-start="1251" selection-end="1251" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/sms_controller.rb">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="1251" selection-end="1251" vertical-scroll-proportion="0.92941177">
+        <state line="6" column="1" selection-start="161" selection-end="161" vertical-scroll-proportion="0.20547946">
           <folding />
         </state>
       </provider>
