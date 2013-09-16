@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="941915ca-1bbd-4f74-ba5f-6f4f8ea9f444" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/sms_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/sms_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/twilio.iml" afterPath="$PROJECT_DIR$/.idea/twilio.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="twilio.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Gemfile" changelist="941915ca-1bbd-4f74-ba5f-6f4f8ea9f444" time="1379303452167" ignored="false" />
+    <file path="/Gemfile" changelist="941915ca-1bbd-4f74-ba5f-6f4f8ea9f444" time="1379304827789" ignored="false" />
     <file path="/database.yml" changelist="941915ca-1bbd-4f74-ba5f-6f4f8ea9f444" time="1379302918954" ignored="false" />
     <file path="/routes.rb" changelist="941915ca-1bbd-4f74-ba5f-6f4f8ea9f444" time="1379303028852" ignored="false" />
     <file path="/Dummy.txt" changelist="941915ca-1bbd-4f74-ba5f-6f4f8ea9f444" time="1379303435462" ignored="false" />
@@ -33,7 +37,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="134" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0">
+            <state line="6" column="16" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -42,7 +46,7 @@
       <file leaf-file-name="sms_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/sms_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="109" selection-start="476" selection-end="476" vertical-scroll-proportion="0.5647059">
+            <state line="15" column="0" selection-start="363" selection-end="363" vertical-scroll-proportion="0.5294118">
               <folding />
             </state>
           </provider>
@@ -491,14 +495,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="134" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0">
+        <state line="6" column="16" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/sms_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="109" selection-start="476" selection-end="476" vertical-scroll-proportion="0.5647059">
+        <state line="15" column="0" selection-start="363" selection-end="363" vertical-scroll-proportion="0.5294118">
           <folding />
         </state>
       </provider>
